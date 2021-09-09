@@ -26,6 +26,7 @@ var bot = plugin('bot',{
 			player.sendMessage("Stay: Tells your wolfbot to stay \n");
 			player.sendMessage("Come: Tells your wolfbot to come \n");
 			player.sendMessage("Pack: Displays the inventory of your wolfbot's pack \n");
+			player.sendMessage("For more info, contact ParthivFrown0704#4517 or check out the github repo at https://github.com/Parthglitch123/wolfbot \n");
 		},
 
     /* summons your bot */
